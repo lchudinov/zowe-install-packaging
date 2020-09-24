@@ -67,10 +67,10 @@
       "version": "~1.0.0-STAGING"
     },
     "org.zowe.explorer-mvs": {
-      "version": "~1.0.0-STAGING"
+      "version": "~1.0.6-PR-151"
     },
     "org.zowe.explorer-uss": {
-      "version": "~1.0.0-STAGING"
+      "version": "~1.0.5-PR-100"
     },
     "org.zowe.explorer-ui-server": {
       "version": "~0.2.0-STAGING"
